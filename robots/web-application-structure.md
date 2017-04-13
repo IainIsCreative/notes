@@ -9,20 +9,20 @@ This is an example stack of what I've been using in my prototyping projects.
 
 ```
 project
-  └--src
-  |   └--client
-  |   |   └--app.js
-  |   |   └--all client side scripts go here.
-  |   └--robot
-  |   |   └--all robot scripts go here
-  |   └--server
-  |   |   └--index.js
-  |   |   └--render-app.js
-  |   └--shared
-  |   |   └--all shared files for server, client, config etc. go here
-  └--package.json
-  └--.babelrc
-  └--.eslintrc.json
+  ├─—src
+  |   ├─——client
+  |   |   ├─——app.js
+  |   |   └─—all client side scripts go here.
+  |   ├——robot
+  |   |   └——all robot scripts go here
+  |   ├——server
+  |   |   ├─—index.js
+  |   |   └——render-app.js
+  |   ├─——shared
+  |   |   └——all shared files for server, client, config etc. go here
+  ├─—package.json
+  ├─—.babelrc
+  └─—.eslintrc.json
 ```
 
 Under `src`, there's a few main directories:
